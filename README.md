@@ -1,6 +1,6 @@
 # Poker.sol
 
-`Poker.sol` is an Ethereum smart contract that implements the logic of a poker game using homomorphic encryption (HE) technology to ensure the privacy and fairness of the game. The contract allows players to join tables, place bets, and play rounds of poker while maintaining the security of each player's cards and stakes.
+`Poker.sol` is an Fhenix smart contract that implements the logic of a poker game using fully homomorphic encryption (FHE) technology to ensure the privacy and fairness of the game. The contract allows players to join tables, place bets, and play rounds of poker while maintaining the security of each player's cards and stakes.All using a Wrapped Erc20 that allows encrypted transactions.
 
 ## Main Features
 
