@@ -1,0 +1,17 @@
+{
+  "name": "hackatonproject",
+  "module": "index.ts",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@types/bun": "latest",
+    "hardhat": "^2.20.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@fhenixprotocol/contracts": "^0.1.1",
+    "dotenv": "^16.4.5",
+    "hardhat-deploy": "^0.12.1"
+  }
+}
